@@ -13,7 +13,10 @@ This public repository contains only the generated static files used by GitHub P
 
 ```mermaid
 flowchart LR
-    Visitor["Visitor"] --> Pages["GitHub Pages portfolio"]
+    Source["Private source repository"] --> CI["CI: lint, test, and build"]
+    CI -->|"checks pass"| CD["CD: publish compiled artifact"]
+    CD --> Pages["Public GitHub Pages portfolio"]
+    Visitor["Visitor"] --> Pages
     Pages --> API["Secured AI API"]
     API --> AI["Portfolio assistant and résumé tailoring"]
 ```
@@ -22,4 +25,4 @@ The website is static except for AI requests, which are handled by a separately 
 
 ## Generated repository
 
-Files in this repository are published automatically after the private source project passes its production build and tests. Manual edits may be replaced by the next deployment.
+Files in this repository are published automatically by a CI/CD pipeline after the private source project passes linting, tests, and its production build. Pull requests run verification without publishing; approved changes to the private main branch release the verified compiled artifact here. Manual edits may be replaced by the next deployment.
