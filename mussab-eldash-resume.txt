@@ -1,0 +1,21 @@
+MUSSAB ELDASH
+Software Engineer
+
+SUMMARY
+Full-stack software engineer at JPMorgan Chase experienced in Java, Spring Boot, React, Angular, Oracle SQL, REST APIs, automated testing, and reliable delivery.
+
+EXPERIENCE
+Software Engineer — JPMorgan Chase
+• Build and support full-stack applications with Java, Spring Boot, Angular/React, Oracle SQL, and REST APIs.
+• Practice TDD with JUnit and Mockito and support end-to-end quality with Selenium.
+• Use Jenkins, Maven, Git, and GitHub Copilot in modern delivery workflows.
+
+PROJECTS
+• SwiftUI Wordle Solver — Native iOS utility for generating useful word suggestions from letter constraints.
+• Chrome Extension — Lightweight browser tool designed to streamline a repeated workflow.
+
+LEADERSHIP
+Volleyball coaching experience centered on communication, development, preparation, and team accountability.
+
+NOTE
+Replace this starter with the verified source résumé to add contact information, dates, education, metrics, and links.
