@@ -1,21 +1,73 @@
-MUSSAB ELDASH
-Software Engineer
+Mussab ElDash
+Newark, DE 19711 | +1 (337) 255-6575 | mussab14@gmail.com | U.S. Citizen
+Portfolio: https://mussabeldash.github.io/Portfolio
+GitHub: https://github.com/MussabElDash | LinkedIn: https://linkedin.com/in/MussabEldash
 
-SUMMARY
-Full-stack software engineer at JPMorgan Chase experienced in Java, Spring Boot, React, Angular, Oracle SQL, REST APIs, automated testing, and reliable delivery.
+PROFESSIONAL SUMMARY
+I’m a software engineer who delivers production-grade applications end-to-end and provides technical leadership across the software development lifecycle. Skilled at translating ambiguous business needs into reliable, maintainable systems. I’ve worked in large-scale environments, collaborating cross-functionally with product, QA, and operations to align on requirements, manage risk, and ship in increments. I’m known for strong ownership, clear communication, and disciplined engineering practices (testing, CI/CD, monitoring). My work consistently improves cycle time, reduces manual effort and errors, and increases system reliability.
+
+TECHNICAL SKILLS
+Languages: Java, C#, TypeScript, Python, Ruby, JavaScript, SQL, PHP, C/C++, Swift
+Backend / Frameworks: Spring, Ruby on Rails, Laravel
+Frontend: React, Angular, HTML, CSS
+Testing / Automation: Selenium, Cucumber, JUnit, Mockito, TestNG
+DevOps / Tools: Git, Jenkins, GitHub Actions, Maven
+Cloud: AWS, Lambda, API Gateway, Bedrock
 
 EXPERIENCE
-Software Engineer — JPMorgan Chase
-• Build and support full-stack applications with Java, Spring Boot, Angular/React, Oracle SQL, and REST APIs.
-• Practice TDD with JUnit and Mockito and support end-to-end quality with Selenium.
-• Use Jenkins, Maven, Git, and GitHub Copilot in modern delivery workflows.
+JPMorgan Chase | Software Engineer III | October 2021 - April 2026
+- Led the end-to-end delivery of production features and system enhancements, coordinating requirements, acceptance criteria, implementation, testing, and release activities with product, QA, operations, and engineering stakeholders.
+- Built a regression automation suite for production releases, reducing manual verification and increasing deployment confidence.
+- Implemented and drove adoption of test-driven development, integrating automated tests into CI pipelines to provide fast feedback, enforce consistent quality gates, and reduce regressions.
 
-PROJECTS
-• SwiftUI Wordle Solver — Native iOS utility for generating useful word suggestions from letter constraints.
-• Chrome Extension — Lightweight browser tool designed to streamline a repeated workflow.
+Amazon | Software Development Engineer (SDE) | April 2020 - April 2021
+- Contributed to a continuous delivery workflow by implementing automated test gates and deployment validations as part of the release pipeline.
+- Integrated automated testing into pre-release environments (e.g., beta/gamma) using serverless and internal testing tooling to improve deployment confidence and reduce regressions.
+- Supported service deployment and operation on AWS compute to handle HTTP/HTTPS traffic, including environment configuration and rollout readiness.
 
-LEADERSHIP
-Volleyball coaching experience centered on communication, development, preparation, and team accountability.
+Freddie Mac | Software Development Engineer in Test (SDET) | November 2018 - April 2020
+- Developed and maintained Selenium and Cucumber end-to-end automation, improving regression coverage and reducing manual QA effort.
+- Built stable UI test flows with reusable page components and selectors to improve consistency and maintainability.
+- Authored readable behavior-driven development (BDD) scenarios that made acceptance criteria and test intent accessible to non-technical stakeholders.
 
-NOTE
-Replace this starter with the verified source résumé to add contact information, dates, education, metrics, and links.
+VorauerFriends | Web Developer | June 2017 - November 2017
+- Developed PHP backend and frontend functionality and customized WordPress code.
+
+Microsoft | Software Development Engineer Intern | July 2015 - September 2015
+Arabic local-business taxonomy classification for Bing queries.
+- Extracted training and testing queries from Bing logs and built Naïve Bayes and logistic regression classifiers using manually labeled data.
+
+Microsoft | Software Development Engineer Intern | January 2014 - February 2014
+Web-content processing for acronyms and named entities.
+- Injected JavaScript to parse webpage content and divide it into requests for server-side processing.
+
+German University in Cairo | Teaching Assistant | October 2012 - May 2016
+- Taught Java in Introduction to Computer Programming and supported data structures and algorithms instruction.
+
+SELECTED PROJECTS
+AI Portfolio Platform | React, TypeScript, Amazon Bedrock, AWS Lambda
+- Built a React/TypeScript portfolio with an AI guide and résumé drafting backed by Amazon Bedrock, AWS Lambda, and API Gateway.
+- Defined serverless infrastructure with AWS SAM/CloudFormation and configured GitHub Actions to lint, test, build, and publish the static site to GitHub Pages.
+
+Wordle Solver | Swift, Python
+- Developed an iPhone/iPad app that narrows possible answers after each round and recommends informative guesses, indicating which suggestions remain valid answers.
+- Implemented balanced, fastest-average, and safest-worst-case strategies, with an optional hard-mode constraint.
+
+TrackForce | Java, Angular, AWS, Jenkins, TestNG, Mockito, PowerMock, JWT
+Associate lifecycle tracking web application supporting staffing and resource planning.
+- Managed Jenkins continuous integration and server-side testing with TestNG, Mockito, and PowerMock; migrated remaining JUnit tests to TestNG.
+- Developed test plans and cases, tracked results, and resolved application and test failures.
+- Fixed a role-escalation vulnerability that allowed users to modify roles through cookies, using JSON Web Tokens (JWT).
+
+EDUCATION
+German University in Cairo | BS in Computer Science
+October 2011 - July 2016 | Cairo, Egypt
+Johannes Kepler Universität | Graduate Coursework, Computer Science (M.S. program)
+September 2016 - November 2017 | Linz, Austria
+
+CERTIFICATIONS
+AWS Certified Cloud Practitioner (2024)
+
+AWARDS
+IEEE Xtreme - 34th of 1,725 (2014)
+ACM-ECPC - 20th of 75 (2012)
